@@ -3,4 +3,18 @@
     <string name="name">Zahid Hasan</string>
     <string name="yellow_star" />
     <string name="Yellow_star">Yellow star</string>
+    <string name="bio">Sir Isaac Newton PRS was an English
+        mathematician, physicist,\n astronomer,
+        alchemist, theologian, and author
+        widely recognised as none of the greatest
+        mathematicians and physicists of all
+        time and among the most influential
+        scientists. He was a key figure in
+        the philosophical revolution known\n as the the Enlightenment.
+        His book Philosophiæ Naturalis Principia Mathematica \n
+        (Mathematical Principles of Natural Philosophy), first
+        published in 1687,\n established classical mechanics.
+        Newton also made seminal contributions to optics,
+        and shares credit with\n German mathematician Gottfried
+        Wilhelm Leibniz for developing infinitesimal calculus.</string>
 </resources>
